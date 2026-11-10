@@ -1,0 +1,267 @@
+#Line,Start Station,End Station,Duration (Mins),Interchange
+# --- RED LINE ---
+Red,Rithala,Rohini West,3,No
+Red,Rohini West,Rohini East,3,No
+Red,Rohini East,Pitampura,3,No
+Red,Pitampura,Kohat Enclave,3,No
+Red,Kohat Enclave,Netaji Subhash Place,3,Yes
+Red,Netaji Subhash Place,Keshav Puram,3,No
+Red,Keshav Puram,Kanhaiya Nagar,3,No
+Red,Kanhaiya Nagar,Inderlok,3,Yes
+Red,Inderlok,Shastri Nagar,3,No
+Red,Shastri Nagar,Pratap Nagar,3,No
+Red,Pratap Nagar,Pul Bangash,3,No
+Red,Pul Bangash,Tis Hazari,3,No
+Red,Tis Hazari,Kashmere Gate,3,Yes
+Red,Kashmere Gate,Shastri Park,3,No
+Red,Shastri Park,Seelampur,3,No
+Red,Seelampur,Welcome,3,Yes
+Red,Welcome,Shahdara,3,No
+Red,Shahdara,Mansarovar Park,3,No
+Red,Mansarovar Park,Jhilmil,3,No
+Red,Jhilmil,Dilshad Garden,3,No
+Red,Dilshad Garden,Shaheed Nagar,3,No
+Red,Shaheed Nagar,Raj Bagh,3,No
+Red,Raj Bagh,Major Mohit Sharma Rajendra Nagar,3,No
+Red,Major Mohit Sharma Rajendra Nagar,Shyam Park,3,No
+Red,Shyam Park,Mohan Nagar,3,No
+Red,Mohan Nagar,Arthala,3,No
+Red,Arthala,Hindon River,3,No
+Red,Hindon River,Shaheed Sthal,3,No
+
+# --- YELLOW LINE ---
+Yellow,Samaypur Badli,Rohini Sector 18-19,3,No
+Yellow,Rohini Sector 18-19,Haiderpur Badli Mor,3,No
+Yellow,Haiderpur Badli Mor,Jahangirpuri,3,No
+Yellow,Jahangirpuri,Adarsh Nagar,3,No
+Yellow,Adarsh Nagar,Azadpur,3,Yes
+Yellow,Azadpur,Model Town,3,No
+Yellow,Model Town,GTB Nagar,3,No
+Yellow,GTB Nagar,Vishwa Vidyalaya,3,No
+Yellow,Vishwa Vidyalaya,Vidhan Sabha,3,No
+Yellow,Vidhan Sabha,Civil Lines,3,No
+Yellow,Civil Lines,Kashmere Gate,3,Yes
+Yellow,Kashmere Gate,Chandni Chowk,3,No
+Yellow,Chandni Chowk,Chawri Bazar,3,No
+Yellow,Chawri Bazar,New Delhi,3,Yes
+Yellow,New Delhi,Rajiv Chowk,3,Yes
+Yellow,Rajiv Chowk,Patel Chowk,3,No
+Yellow,Patel Chowk,Central Secretariat,3,Yes
+Yellow,Central Secretariat,Udyog Bhawan,3,No
+Yellow,Udyog Bhawan,Lok Kalyan Marg,3,No
+Yellow,Lok Kalyan Marg,Jor Bagh,3,No
+Yellow,Jor Bagh,Dilli Haat - INA,3,Yes
+Yellow,Dilli Haat - INA,AIIMS,3,No
+Yellow,AIIMS,Green Park,3,No
+Yellow,Green Park,Hauz Khas,3,Yes
+Yellow,Hauz Khas,Malviya Nagar,3,No
+Yellow,Malviya Nagar,Saket,3,No
+Yellow,Saket,Qutab Minar,4,No
+Yellow,Qutab Minar,Chhatarpur,3,No
+Yellow,Chhatarpur,Sultanpur,3,No
+Yellow,Sultanpur,Ghitorni,3,No
+Yellow,Ghitorni,Arjan Garh,3,No
+Yellow,Arjan Garh,Guru Dronacharya,3,No
+Yellow,Guru Dronacharya,Sikanderpur,3,No
+Yellow,Sikanderpur,MG Road,3,No
+Yellow,MG Road,IFFCO Chowk,3,No
+Yellow,IFFCO Chowk,HUDA City Centre,3,No
+
+# --- BLUE LINE ---
+Blue,Dwarka Sector 21,Dwarka Sector 8,4,No
+Blue,Dwarka Sector 8,Dwarka Sector 9,3,No
+Blue,Dwarka Sector 9,Dwarka Sector 10,3,No
+Blue,Dwarka Sector 10,Dwarka Sector 11,3,No
+Blue,Dwarka Sector 11,Dwarka Sector 12,3,No
+Blue,Dwarka Sector 12,Dwarka Sector 13,3,No
+Blue,Dwarka Sector 13,Dwarka Sector 14,3,No
+Blue,Dwarka Sector 14,Dwarka,3,No
+Blue,Dwarka,Dwarka Mor,3,No
+Blue,Dwarka Mor,Nawada,3,No
+Blue,Nawada,Uttam Nagar West,3,No
+Blue,Uttam Nagar West,Uttam Nagar East,3,No
+Blue,Uttam Nagar East,Janakpuri West,3,Yes
+Blue,Janakpuri West,Janakpuri East,3,No
+Blue,Janakpuri East,Tilak Nagar,3,No
+Blue,Tilak Nagar,Subhash Nagar,3,No
+Blue,Subhash Nagar,Tagore Garden,3,No
+Blue,Tagore Garden,Rajouri Garden,3,Yes
+Blue,Rajouri Garden,Ramesh Nagar,3,No
+Blue,Ramesh Nagar,Moti Nagar,3,No
+Blue,Moti Nagar,Kirti Nagar,3,Yes
+Blue,Kirti Nagar,Shadipur,3,No
+Blue,Shadipur,Patel Nagar,3,No
+Blue,Patel Nagar,Rajendra Place,3,No
+Blue,Rajendra Place,Karol Bagh,3,No
+Blue,Karol Bagh,Jhandewalan,3,No
+Blue,Jhandewalan,Ramakrishna Ashram Marg,3,No
+Blue,Ramakrishna Ashram Marg,Rajiv Chowk,3,Yes
+Blue,Rajiv Chowk,Barakhamba Road,3,No
+Blue,Barakhamba Road,Mandi House,3,Yes
+Blue,Mandi House,Supreme Court,3,No
+Blue,Supreme Court,Indraprastha,3,No
+Blue,Indraprastha,Yamuna Bank,4,Yes
+Blue,Yamuna Bank,Akshardham,4,No
+Blue,Akshardham,Mayur Vihar-I,3,Yes
+Blue,Mayur Vihar-I,Mayur Vihar Extension,3,No
+Blue,Mayur Vihar Extension,New Ashok Nagar,3,No
+Blue,New Ashok Nagar,Noida Sector 15,3,No
+Blue,Noida Sector 15,Noida Sector 16,3,No
+Blue,Noida Sector 16,Noida Sector 18,3,No
+Blue,Noida Sector 18,Botanical Garden,3,Yes
+Blue,Botanical Garden,Golf Course,3,No
+Blue,Golf Course,Noida City Centre,3,No
+Blue,Noida City Centre,Noida Sector 34,3,No
+Blue,Noida Sector 34,Noida Sector 52,3,Yes
+Blue,Noida Sector 52,Noida Sector 61,3,No
+Blue,Noida Sector 61,Noida Sector 59,3,No
+Blue,Noida Sector 59,Noida Sector 62,3,No
+Blue,Noida Sector 62,Noida Electronic City,3,No
+
+# --- BLUE LINE BRANCH ---
+Blue,Yamuna Bank,Laxmi Nagar,4,No
+Blue,Laxmi Nagar,Nirman Vihar,3,No
+Blue,Nirman Vihar,Preet Vihar,3,No
+Blue,Preet Vihar,Karkarduma,3,Yes
+Blue,Karkarduma,Anand Vihar,3,Yes
+Blue,Anand Vihar,Kaushambi,3,No
+Blue,Kaushambi,Vaishali,3,No
+
+# --- GREEN LINE ---
+Green,Inderlok,Ashok Park Main,3,Yes
+Green,Ashok Park Main,Punjabi Bagh,3,No
+Green,Punjabi Bagh,Shivaji Park,3,No
+Green,Shivaji Park,Madipur,3,No
+Green,Madipur,Paschim Vihar East,3,No
+Green,Paschim Vihar East,Paschim Vihar West,3,No
+Green,Paschim Vihar West,Peeragarhi,3,No
+Green,Peeragarhi,Udyog Nagar,3,No
+Green,Udyog Nagar,Maharaja Surajmal Stadium,3,No
+Green,Maharaja Surajmal Stadium,Nangloi,3,No
+Green,Nangloi,Nangloi Railway Station,3,No
+Green,Nangloi Railway Station,Rajdhani Park,3,No
+Green,Rajdhani Park,Mundka,3,No
+Green,Mundka,Mundka Industrial Area,3,No
+Green,Mundka Industrial Area,Ghevra,3,No
+Green,Ghevra,Tikri Kalan,3,No
+Green,Tikri Kalan,Tikri Border,3,No
+Green,Tikri Border,Pandit Shree Ram Sharma,3,No
+Green,Pandit Shree Ram Sharma,Bahadurgarh City,3,No
+Green,Bahadurgarh City,Brigadier Hoshiyar Singh,3,No
+# Green Branch
+Green,Kirti Nagar,Satguru Ram Singh Marg,3,No
+Green,Satguru Ram Singh Marg,Ashok Park Main,3,Yes
+
+# --- VIOLET LINE ---
+Violet,Kashmere Gate,Lal Qila,3,Yes
+Violet,Lal Qila,Jama Masjid,3,No
+Violet,Jama Masjid,Delhi Gate,3,No
+Violet,Delhi Gate,ITO,3,No
+Violet,ITO,Mandi House,3,Yes
+Violet,Mandi House,Janpath,3,No
+Violet,Janpath,Central Secretariat,3,Yes
+Violet,Central Secretariat,Khan Market,4,No
+Violet,Khan Market,Jawaharlal Nehru Stadium,3,No
+Violet,Jawaharlal Nehru Stadium,Jangpura,3,No
+Violet,Jangpura,Lajpat Nagar,3,Yes
+Violet,Lajpat Nagar,Moolchand,3,No
+Violet,Moolchand,Kailash Colony,3,No
+Violet,Kailash Colony,Nehru Place,3,No
+Violet,Nehru Place,Kalkaji Mandir,3,Yes
+Violet,Kalkaji Mandir,Govindpuri,3,No
+Violet,Govindpuri,Harkesh Nagar Okhla,3,No
+Violet,Harkesh Nagar Okhla,Jasola Apollo,3,No
+Violet,Jasola Apollo,Sarita Vihar,3,No
+Violet,Sarita Vihar,Mohan Estate,3,No
+Violet,Mohan Estate,Tughlakabad Station,3,No
+Violet,Tughlakabad Station,Badarpur Border,3,No
+Violet,Badarpur Border,Sarai,3,No
+Violet,Sarai,NHPC Chowk,3,No
+Violet,NHPC Chowk,Mewla Maharajpur,3,No
+Violet,Mewla Maharajpur,Sector 28,3,No
+Violet,Sector 28,Badkal Mor,3,No
+Violet,Badkal Mor,Old Faridabad,3,No
+Violet,Old Faridabad,Neelam Chowk Ajronda,3,No
+Violet,Neelam Chowk Ajronda,Bata Chowk,3,No
+Violet,Bata Chowk,Escorts Mujesar,3,No
+Violet,Escorts Mujesar,Sant Surdas (Sihi),3,No
+Violet,Sant Surdas (Sihi),Raja Nahar Singh,3,No
+
+# --- PINK LINE ---
+Pink,Majlis Park,Azadpur,4,Yes
+Pink,Azadpur,Shalimar Bagh,3,No
+Pink,Shalimar Bagh,Netaji Subhash Place,3,Yes
+Pink,Netaji Subhash Place,Shakurpur,3,No
+Pink,Shakurpur,Punjabi Bagh West,3,Yes
+Pink,Punjabi Bagh West,ESI - Basaidarapur,3,No
+Pink,ESI - Basaidarapur,Rajouri Garden,3,Yes
+Pink,Rajouri Garden,Mayapuri,3,No
+Pink,Mayapuri,Naraina Vihar,3,No
+Pink,Naraina Vihar,Delhi Cantonment,4,No
+Pink,Delhi Cantonment,Durgabai Deshmukh South Campus,4,Yes
+Pink,Durgabai Deshmukh South Campus,Sir M. Vishweshwaraiah Moti Bagh,3,No
+Pink,Sir M. Vishweshwaraiah Moti Bagh,Bhikaji Cama Place,3,No
+Pink,Bhikaji Cama Place,Sarojini Nagar,3,No
+Pink,Sarojini Nagar,Dilli Haat - INA,3,Yes
+Pink,Dilli Haat - INA,South Extension,3,No
+Pink,South Extension,Lajpat Nagar,3,Yes
+Pink,Lajpat Nagar,Vinobapuri,3,No
+Pink,Vinobapuri,Ashram,3,No
+Pink,Ashram,Sarai Kale Khan - Nizamuddin,3,No
+Pink,Sarai Kale Khan - Nizamuddin,Mayur Vihar-I,4,Yes
+Pink,Mayur Vihar-I,Mayur Vihar Pocket I,3,No
+Pink,Mayur Vihar Pocket I,Trilokpuri Sanjay Lake,3,No
+Pink,Trilokpuri Sanjay Lake,East Vinod Nagar - Mayur Vihar-II,3,No
+Pink,East Vinod Nagar - Mayur Vihar-II,Mandawali - West Vinod Nagar,3,No
+Pink,Mandawali - West Vinod Nagar,IP Extension,3,No
+Pink,IP Extension,Anand Vihar,3,Yes
+Pink,Anand Vihar,Karkarduma,3,Yes
+Pink,Karkarduma,Karkarduma Court,3,No
+Pink,Karkarduma Court,Krishna Nagar,3,No
+Pink,Krishna Nagar,East Azad Nagar,3,No
+Pink,East Azad Nagar,Welcome,3,Yes
+Pink,Welcome,Jaffrabad,3,No
+Pink,Jaffrabad,Maujpur - Babarpur,3,No
+Pink,Maujpur - Babarpur,Gokulpuri,3,No
+Pink,Gokulpuri,Johri Enclave,3,No
+Pink,Johri Enclave,Shiv Vihar,3,No
+
+# --- MAGENTA LINE ---
+Magenta,Janakpuri West,Krishna Park Extension,3,No
+Magenta,Krishna Park Extension,Dabri Mor - Janakpuri South,3,No
+Magenta,Dabri Mor - Janakpuri South,Dashrath Puri,3,No
+Magenta,Dashrath Puri,Palam,3,No
+Magenta,Palam,Sadar Bazaar Cantonment,3,No
+Magenta,Sadar Bazaar Cantonment,Terminal 1-IGI Airport,4,No
+Magenta,Terminal 1-IGI Airport,Shankar Vihar,4,No
+Magenta,Shankar Vihar,Vasant Vihar,4,No
+Magenta,Vasant Vihar,Munirka,4,No
+Magenta,Munirka,R. K. Puram,3,No
+Magenta,R. K. Puram,IIT Delhi,3,No
+Magenta,IIT Delhi,Hauz Khas,3,Yes
+Magenta,Hauz Khas,Panchsheel Park,3,No
+Magenta,Panchsheel Park,Chirag Delhi,3,No
+Magenta,Chirag Delhi,Greater Kailash,3,No
+Magenta,Greater Kailash,Nehru Enclave,3,No
+Magenta,Nehru Enclave,Kalkaji Mandir,3,Yes
+Magenta,Kalkaji Mandir,Okhla NSIC,3,No
+Magenta,Okhla NSIC,Sukhdev Vihar,3,No
+Magenta,Sukhdev Vihar,Jamia Millia Islamia,3,No
+Magenta,Jamia Millia Islamia,Okhla Vihar,3,No
+Magenta,Okhla Vihar,Jasola Vihar Shaheen Bagh,3,No
+Magenta,Jasola Vihar Shaheen Bagh,Kalindi Kunj,3,No
+Magenta,Kalindi Kunj,Okhla Bird Sanctuary,4,No
+Magenta,Okhla Bird Sanctuary,Botanical Garden,3,Yes
+
+# --- GREY LINE ---
+Grey,Dwarka,Nangli,3,No
+Grey,Nangli,Najafgarh,3,No
+Grey,Najafgarh,Dhansa Bus Stand,3,No
+
+# --- AIRPORT EXPRESS (ORANGE LINE) ---
+Orange,New Delhi,Shivaji Stadium,4,Yes
+Orange,Shivaji Stadium,Dhaula Kuan,9,Yes
+Orange,Dhaula Kuan,Delhi Aerocity,5,No
+Orange,Delhi Aerocity,Indira Gandhi International Airport,4,No
+Orange,Indira Gandhi International Airport,Dwarka Sector 21,3,Yes
+Orange,Dwarka Sector 21,Yashobhoomi Dwarka Sector - 25,3,No
