@@ -1,12 +1,6 @@
 ======================================================
-ASSIGNMENT: DELHI METRO ROUTE AND SCHEDULE SIMULATOR
+DELHI METRO ROUTE AND SCHEDULE SIMULATOR
 ======================================================
-
-STUDENT DETAILS
----------------
-Name: Parnika Kandhimalla
-Roll Number: 2025612
-Course: CSE101: Introduction to Programming
 Date: 25th Novemeber, 2025
 
 ------------------------------------------------------
@@ -23,10 +17,6 @@ and building a trip that changes once between the Blue line and the Magenta line
 1. metro_simulator.py  : The main Python source code.
 2. metro_data.txt      : The database file containing station connectivity.
 3. README.txt          : This documentation file 
-4. README_BONUS.txt    : Documentation for extra features implemented.
-5. Logic_Sheet.pdf     : Detailed breakdown of the algorithms used.
-6. Output_Screenshots  : File containing execution proofs.
-7. Demo_Video.mp4      : Video walkthrough of the program output.
 
 ------------------------------------------------------
 3. HOW TO RUN THE PROGRAM
